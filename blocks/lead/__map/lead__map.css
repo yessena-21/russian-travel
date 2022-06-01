@@ -1,0 +1,27 @@
+.lead__map {
+    width: calc(100% - 48px * 2);
+    padding: 90px 23.5px 270px 23px;
+    z-index: 2;
+  }
+  
+  @media screen and (max-width: 1279px) {
+    .lead__map {
+      padding: 85px 22px 247px 22px;
+    }  
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .lead__map {
+      width: 100%;
+      max-width: 731px;
+      padding: 70px 18.5px 204px 18px;
+    }  
+  }
+  
+  @media screen and (max-width: 450px) {
+    .lead__map {
+      padding: 29px 7.5px 85px 7.5px;
+    }  
+  }
+  
