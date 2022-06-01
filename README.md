@@ -21,6 +21,6 @@
 •	1280
 
 Посмотреть страницу и макет:
-•	Путешествия по России на Github Pages
+•	Путешествия по России на Github Pages - https://yessena-21.github.io/russian_travel/
 •	Ссылка на макет в Figma - https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A752
 
