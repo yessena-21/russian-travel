@@ -4,8 +4,10 @@
     font-size: 12px;
     line-height: 1.7;
     font-weight: 400;
-    letter-spacing: 0.2em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
+
 
 @media screen and (max-width: 1023px) {
     .place__url-heading {

@@ -1,17 +1,37 @@
 .cover__overlay {
+    background-image: url(../../../images/cover-railway.jpg);
+    background-size: cover;
+    background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
     height: 100%;
+    min-height: 740px;
     align-items: center;
     position: relative;
     z-index: 0;
-    overflow: hidden;
     color: #fff;
     text-decoration: none;
 }
+ 
+@media screen and (max-width: 1279px) {
+    .cover__overlay {
+        min-height: 640px;
+    }
+}
 
+@media screen and (max-width: 1023px) {
+    .cover__overlay {
+        min-height: 480px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover__overlay {
+        min-height: 200px;
+    }
+}
 
 
 .cover__overlay:before {

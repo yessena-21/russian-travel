@@ -19,13 +19,14 @@
     .photo-grid {
         max-width: 720px;
         gap: 16px;
-        margin: 64px auto 0;
+        margin: 88px auto 0;
     }
 }
 
 @media (max-width: 320px) {
     .photo-grid {
         max-width: 288px;
+        margin: 64px auto 0;
         gap: 12px;
     }
 }
