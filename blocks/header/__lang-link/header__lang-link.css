@@ -13,4 +13,7 @@
         line-height: 1.1;
     }
 }
+.header__lang-link:hover {
+    opacity: .6;
+  }
 
